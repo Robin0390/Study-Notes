@@ -1,0 +1,9 @@
+/*  NO.1
+*usually used to local the member of struct
+*#define offsetof(TYPE, MEMBER) ((size_t) &((TYPE *)0)->MEMBER)
+*/
+
+/*  NO.2
+ *print a value name
+ *#define print(x)   printf("the no, "#x",is")
+ */
