@@ -4,9 +4,9 @@ Python Study notes
 
 [廖雪峰的官方网站-Python入门教程][1]
 
-##Python基础
+## Python基础
 
-###数据类型与变量
+### 数据类型与变量
 
 ---
 
@@ -28,7 +28,7 @@ Python Study notes
 		'//'称为地板除，两个整数的除法仍然是整数
 		'%' 整数相除，取余数
 
-###字符串和编码
+### 字符串和编码
 
 ---
 
@@ -45,7 +45,7 @@ Python Study notes
 	>
 	>浏览器一般使用的是UTF-8
 
-###Python字符串
+### Python字符串
 
 ---
 
@@ -80,7 +80,7 @@ Python字符串以Unicode编码，即支持多语言
 - 申明了UTF-8编码并不意味着你的.py文件就是UTF-8编码的，必须并且要确保文本编辑器正在使用UTF-8 without BOM编码
 
 
-###格式化输出
+### 格式化输出
 
 ---
 -  `'Hi, %s, you have $%d.' % ('Michael', 1000000)` --> `Hi, Michael, you have $1000000`
@@ -95,7 +95,7 @@ Python字符串以Unicode编码，即支持多语言
 	> 
 	>     print('%02d-%02.1f' % (1, 1.0003)) --> 01-1.0
 
-##Python的数组
+## Python的数组
 list和tuple是Python内置的有序集合，一个可变，一个不可变。定义区别是前者[]，后者()
 
 - list可以内嵌list变量，将list当成其中一个变量
