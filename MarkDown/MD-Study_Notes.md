@@ -8,7 +8,7 @@ It is designed so that it can be converted to HTML and many other formats using 
 
 -----
 
-##与HTML兼容
+## 与HTML兼容
 *`Markdown`-->`HTML`-->`Text`*
 
 特殊字符自动转换
@@ -17,7 +17,7 @@ It is designed so that it can be converted to HTML and many other formats using 
 
 概念
 ----
-###区块元素
+### 区块元素
 - 段落与换行
 
 	Markdown 段落是由 ***`一个或多个连续的文本行`*** 组成，它的前后要有 ***`一个以上`*** 的空行
@@ -62,7 +62,7 @@ It is designed so that it can be converted to HTML and many other formats using 
 
 	你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西,分隔符必须是独立段落，否则与Setext标题冲突
 
-###区段元素
+### 区段元素
 - 链接
 
 	链接辨别标签可以有字母、数字、空白和标点符号，但是并不区分大小写
