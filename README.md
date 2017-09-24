@@ -1,1 +1,14 @@
-[DOC] --->  tag used for git comment, refer to new file create and add in.
+Learn-Coding-Practice
+====
+For saving study-notes and recoding learning-process
+
+***
+
+MarkDown
+---
+
+***
+
+THANKS FOR THE CRITICISM
+
+&copy;Robin
